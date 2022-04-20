@@ -1,3 +1,4 @@
+
 from flask import Blueprint, request, render_template   #Import data from flask
 from flaskr.db import get_movies
 
